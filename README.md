@@ -1,1 +1,1 @@
-# Hibernate-Mapping-OneToOne-Uni
+# Hibernate-Mapping-OneToMay-Uni
